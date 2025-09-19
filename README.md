@@ -1,7 +1,13 @@
 
+
+
 Uploading Screen Recording 2025-09-19 at 01.25.23.mov…
 
- Jogo da Velha
+
+ 
+ 
+ 
+Jogo da Velha
 
 Este projeto é uma implementação do clássico Jogo da Velha (Tic-Tac-Toe) em Python, utilizando a biblioteca Tkinter para a interface gráfica.
 
