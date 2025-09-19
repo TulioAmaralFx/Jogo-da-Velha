@@ -1,6 +1,5 @@
 
-https://github.com/user-attachments/assets/c5a6211a-4c06-4366-9e9a-940093f40d1c
-#Uploading Screen Recording 2025-09-19 at 01.25.23.mov…
+Uploading Screen Recording 2025-09-19 at 01.25.23.mov…
 
  Jogo da Velha
 
